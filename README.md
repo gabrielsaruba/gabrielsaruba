@@ -2,7 +2,6 @@
 
 ## 📊 GitHub Stats
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsaruba&show_icons=true&theme=radical)
-
 ## 🚀 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaruba&layout=compact&theme=radical)
 
