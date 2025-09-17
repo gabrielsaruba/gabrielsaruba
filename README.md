@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gabriel Saruba  
 
-## 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsaruba&show_icons=true&theme=radical)
+## 📊 GitHub Stat 
+
 
 ---
 
